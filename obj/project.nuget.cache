@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2y5J4fscB35KPRaJk2fQxpbSyWSJ53PKdNn07fyGD8egWeOZwBZCOAzJNuRvnf+WAVFJEbH0TY1mFBgRV8XxPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Raphs\\OneDrive\\Área de Trabalho\\faculdade\\C\\C#\\ConsumidorPacote\\ConsumidorPacote.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raphs\\.nuget\\packages\\bytebank_geradorchavep\\1.0.0\\bytebank_geradorchavep.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
